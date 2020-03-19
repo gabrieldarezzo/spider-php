@@ -4,7 +4,8 @@ set_time_limit(0);
 
 require_once('simple_html_dom.php');
 $pages = [
-	'https://br.thebar.com/johnnie-walker-oficial?uam=true&mobile=2',
+	'https://google.com.br',
+	'https://g1.globo.com',
 ];
 
 $pageData = [];

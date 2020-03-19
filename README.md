@@ -1,6 +1,8 @@
-# Spider to get all titles and meta-descriptions of list sites,
+# Simple Spider / CrawlerWeb to get title / meta-description of list of pages.
 
-Return a Json. 
+This script return a Json,
+
+You can convert Json to CSV:
 https://json-csv.com/
 
 
